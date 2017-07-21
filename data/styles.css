@@ -11,6 +11,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .image {
 }
 .primary_button {
@@ -70,7 +72,21 @@
   color:#000000;
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
+.table_cell {
+}
 .flow_shape {
+}
+.connector {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .menu_item {
   font-family:'Arial Normal', 'Arial';
@@ -80,6 +96,11 @@
 .sticky_1 {
   text-align:left;
 }
+.sticky_2 {
+  text-align:left;
+}
 .marker {
   color:#FFFFFF;
+}
+.icon {
 }
